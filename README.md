@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao perfil do Igor Castro 😁
 
  <div>
    <a href="https://github.com/Igzx7">
